@@ -65,7 +65,6 @@ This section details the steps needed in order to work with push messages in iOS
 
 * Enable **Push Notifications**: Go to your Project Navigator’s **capabilities** tab. Select **Push Notifications > Enable**.
 * Enable **Remote Notifications**: Go to your Project Navigator’s **capabilities** tab. Turn on **Background Modes > Remote notifications**.
-* Make sure in **Apple Developer** in “Certificates, Identifiers & Profiles” your “Deployment Details” are filled out for the app Identifier, otherwise APNS won’t register your device to push.
 
 #### Register device token on PingOne server
 
